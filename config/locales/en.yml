@@ -28,4 +28,7 @@
 #       enabled: "ON"
 
 en:
-  hello: "Hello world"
+  mockups:
+    test_b:
+      headline: "This is the homepage"
+      first_paragraph: "the text showed here is passed via a 'translation file' and this means that our application is ready to support more languages"
